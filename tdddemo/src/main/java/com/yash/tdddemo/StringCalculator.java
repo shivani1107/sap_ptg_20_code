@@ -4,7 +4,6 @@ import java.util.Arrays;
 
 public class StringCalculator {
 public int calculate(String input) {
-		
 		if (input.isEmpty()) {
 			return 0;
 		}
