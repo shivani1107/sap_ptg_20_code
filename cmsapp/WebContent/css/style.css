@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+.container {
+	border: 1px solid black;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.header {
+	border: 1px solid black;
+	height: 100px;
+}
+
+.main {
+	border: 1px solid black;
+	height: 400px;
+}
+
+.footer {
+	border: 1px solid black;
+	height: 50px;
+}

@@ -34,8 +34,7 @@ public class PaymentDAOImpl extends JDBCUtil implements PaymentDAO
 		}
 		return result;
 	}
-//ghghhff
-	//hghghgghjgj
+	
 	@Override
 	public Payment update(Payment payments) {
 		try {
